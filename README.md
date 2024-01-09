@@ -6,7 +6,7 @@ The model is trained using a dataset sourced from [Roboflow](https://roboflow.co
 
 ## Google Colab Training
 
-The model training process is documented in the `train_model.ipynb` notebook, hosted on Google Colab. Training on Colab enables efficient GPU acceleration, allowing for faster model convergence. To train the model, follow the provided link to the [Train_Model_Colab.ipynb](link-https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb#scrollTo=GSJ2wgGCixy2) notebook.
+The model training process is documented in the `train_model.ipynb` notebook, hosted on Google Colab. Training on Colab enables efficient GPU acceleration, allowing for faster model convergence. To train the model, follow the provided link (link-https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb#scrollTo=GSJ2wgGCixy2) to the notebook.
 
 ## TensorFlow Lite Conversion
 
