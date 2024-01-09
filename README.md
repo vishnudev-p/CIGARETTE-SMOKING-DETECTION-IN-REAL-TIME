@@ -25,7 +25,10 @@ To use the trained model on your local machne or edge device, follow the instruc
 
 2. Download the TensorFlow Lite model (`model.tflite`) from this repository using clone.
 
-3. Demo video for training model is uploaded below you can just watch and understand it:
+3. After cloning into the repo you can execute the code using this command:
+       python TFLite_detection_webcam.py --modeldir=custom_model_lite
+
+5. Demo video for training model is uploaded below you can just watch and understand it:
      'https://www.youtube.com/watch?v=XZ7FYAMCc4M'
 
 
